@@ -1,148 +1,239 @@
-# 🧬 Single CEll Sight Annotator (SCESA)
-**AI Copilot for Single-Cell Cell-Type Annotation**
+# 🧬 SingleCellSightAnnotator
+
+**AI-Assisted Single-Cell RNA-seq Cell Type Annotation Agent**
+
+SingleCellSightAnnotator is an AI-powered bioinformatics tool that converts **cluster-level marker genes** into **interpretable cell-type annotations** using reference databases, scoring algorithms, and explainable outputs.
 
 ---
 
 ## 🚀 Overview
 
-**SingleCEllSight Annotator** is an AI-powered, evidence-guided annotation engine for **single-cell RNA-seq (scRNA-seq)** cluster labeling.
+Single-cell RNA-seq workflows often produce cluster-specific marker genes but require manual interpretation to assign biological meaning. This tool automates that process by providing:
 
-It combines:
-- curated biological knowledge (marker databases)
-- deterministic scoring (interpretable rules)
-- LLM-assisted reasoning (for ambiguous cases)
-- human-in-the-loop review signals
-
-to generate **transparent, reproducible, and confidence-aware cell-type annotations**.
+* 🔍 Marker-to-reference matching
+* 📊 Quantitative confidence scoring
+* 🧾 Evidence gene reporting
+* 🤖 Optional AI-based reasoning
+* 📁 Exportable annotation tables
 
 ---
 
-## ✨ Key Features
+## 🧠 Key Features
 
-- 🔬 **Marker-based annotation engine**
-- 🧠 **Hybrid AI architecture**
-- 📊 **Confidence-aware predictions**
-- ⚠️ **Biological QC detection**
-- 🧾 **Explainable outputs**
-- 👨‍⚕️ **Human-in-the-loop ready**
-- 🖥️ **Interactive UI (Gradio)**
-- 📦 **Reproducible outputs**
+* ✅ Automated cell-type annotation from marker genes
+* ✅ Supports Seurat / Scanpy outputs (e.g., FindAllMarkers)
+* ✅ Reference database integration (PanglaoDB, curated markers)
+* ✅ Transparent scoring and evidence tracking
+* ✅ User-friendly interface (Gradio)
+* ✅ API-ready (FastAPI-compatible design)
+* ✅ Reproducible and modular pipeline
 
 ---
 
 ## 🏗️ Architecture
 
-Ingest → Validate → Normalize → QC → Retrieve → Score → Adjudicate → Finalize → Persist
+```text
+Input (marker genes)
+        ↓
+Preprocessing (gene normalization)
+        ↓
+Reference Database Matching
+        ↓
+Scoring Engine
+        ↓
+Reasoning Layer (optional LLM)
+        ↓
+Output Table + UI/API
+```
 
 ---
 
-## 📂 Project Structure
+## 📥 Installation
 
-cell_type_annotation_agent/
-├── app_gradio.py
-├── data/
-├── src/cell_annotator/
-├── tests/
-├── pyproject.toml
-└── README.md
-
----
-
-## ⚙️ Installation
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/CellSight-Annotator.git
-cd CellSight-Annotator
+git clone https://github.com/zhaoyuqi616/SingleCEllSightAnnotator.git
+cd SingleCEllSightAnnotator
+```
 
-python3.10 -m venv .venv
-source .venv/bin/activate
+### 2. Install dependencies
 
-pip install -e .[dev]
-pip install gradio
+```bash
+pip install -r requirements.txt
 ```
 
 ---
 
 ## ▶️ Usage
 
-### CLI
+### Run the application
 
 ```bash
-python -m cell_annotator.main \
-  --input data/examples/marker_list_simple.tsv \
-  --species human \
-  --tissue PBMC
+python app.py
 ```
 
-### Web UI
+If using Gradio, a local UI will launch in your browser.
+
+---
+
+## 📊 Example Input
+
+| cluster | gene  |
+| ------- | ----- |
+| 0       | EPCAM |
+| 0       | KRT18 |
+| 1       | CD3D  |
+| 1       | CD3E  |
+
+---
+
+## 📈 Example Output
+
+| cluster | predicted_cell_type | evidence_genes | confidence | score |
+| ------- | ------------------- | -------------- | ---------- | ----- |
+| 0       | epithelial cell     | EPCAM, KRT18   | High       | 0.91  |
+| 1       | T cell              | CD3D, CD3E     | High       | 0.87  |
+
+---
+
+## 🔬 Methodology
+
+### 1. Marker Matching
+
+* Computes overlap between query markers and reference markers
+
+### 2. Scoring
+
+* Overlap-based scoring (ratio, weighted markers)
+* Optional advanced scoring (TF-IDF / enrichment-based)
+
+### 3. Evidence Extraction
+
+* Reports matched genes supporting prediction
+
+### 4. Optional AI Reasoning
+
+* Generates biological explanations for predictions
+
+---
+
+## 🧩 Project Structure
+
+```text
+SingleCellSightAnnotator/
+├── README.md
+├── app.py
+├── requirements.txt
+├── src/
+│   ├── preprocessing.py
+│   ├── matcher.py
+│   ├── scorer.py
+│   ├── reference_db.py
+│   └── utils.py
+├── data/
+├── tests/
+├── results/
+└── .github/
+```
+
+---
+
+## 🔧 API Design (Optional)
 
 ```bash
-python app_gradio.py
+POST /annotate
 ```
 
-Open http://127.0.0.1:7860
+### Example Input
 
----
+```json
+{
+  "markers": {
+    "0": ["EPCAM", "KRT18"],
+    "1": ["CD3D", "CD3E"]
+  }
+}
+```
 
-## 📥 Input Format
+### Example Output
 
-cluster	gene
-0	CD3D
-0	CD3E
-1	MS4A1
-1	CD79A
-
----
-
-## 📤 Output Example
-
-| Cluster | Cell Type | Confidence | QC | Top Markers |
-|--------|----------|------------|----|------------|
-| 0 | CD8 T cell | High | – | CD3D, CD8A |
-| 1 | B cell | High | – | MS4A1, CD79A |
-
----
-
-## 🧪 Testing
-
-```bash
-pytest -q
+```json
+{
+  "annotations": [
+    {
+      "cluster": "0",
+      "cell_type": "epithelial cell",
+      "confidence": "High"
+    }
+  ]
+}
 ```
 
 ---
 
-## 🧠 Knowledge Base
+## 🧠 Why This Matters
 
-- PanglaoDB
-- curated markers
-- domain knowledge
+* Eliminates manual annotation bottlenecks
+* Improves reproducibility across studies
+* Provides interpretable, evidence-based outputs
+* Bridges computational analysis and biological insight
 
 ---
 
 ## ⚠️ Limitations
 
-- Marker DB still evolving
-- Confidence not fully calibrated
-- Limited ontology integration
+* Dependent on reference database quality
+* May not detect novel cell types
+* Sensitive to marker gene quality
 
 ---
 
-## 🔮 Roadmap
+## 🚀 Future Work
 
-- Expand marker DB
-- Improve scoring
-- Add ontology support
-- Production deployment
+* Multi-omics integration
+* Spatial transcriptomics support
+* RAG-based literature validation
+* Isoform-level annotation (long-read RNA-seq)
+* Multi-agent architecture (LangGraph)
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 📌 Tech Stack
 
-Python, Pandas, Gradio, OpenAI API, pytest
+* Python
+* Pandas / NumPy
+* Gradio (UI)
+* FastAPI (optional API layer)
+* Bioinformatics marker databases
+
+---
+
+## 📄 License
+
+MIT License
 
 ---
 
 ## 👤 Author
 
-Yuqi Zhao  
-https://github.com/zhaoyuqi616
+**Yuqi Zhao**
+Computational Biologist | AI in Translational Science
+
+---
+
+## ⭐ Acknowledgments
+
+* PanglaoDB
+* CellMarker database
+* Single-cell analysis community
+
+---
+
+## 💡 Citation (Optional)
+
+If you use this tool in your research, please consider citing:
+
+```text
+SingleCellSightAnnotator: AI-assisted cell-type annotation framework for scRNA-seq data.
+```
