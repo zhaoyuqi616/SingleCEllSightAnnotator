@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: cell-type-annotation-agent
+Version: 0.1.0
+Summary: Production-style LangGraph agent for single-cell cell type annotation from marker genes
+Author: OpenAI Demo Scaffold
+Requires-Python: >=3.10
+Requires-Dist: langgraph>=0.2.0
+Requires-Dist: langchain>=0.3.0
+Requires-Dist: langchain-openai>=0.2.0
+Requires-Dist: pydantic>=2.7.0
+Requires-Dist: pandas>=2.2.0
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: python-dotenv>=1.0.1
+Requires-Dist: rapidfuzz>=3.9.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0.0; extra == "dev"

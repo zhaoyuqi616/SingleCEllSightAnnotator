@@ -1,0 +1,3807 @@
+[
+  {
+    "cell_type": "Acinar cells",
+    "species": "human",
+    "positive_markers": [
+      "C15ORF48",
+      "RARRES2",
+      "AKR1C3",
+      "PDZK1IP1",
+      "SPINK1",
+      "REG1A",
+      "PRSS2",
+      "PRSS1"
+    ],
+    "supporting_markers": [
+      "CTRB1",
+      "LGALS2",
+      "MUC1",
+      "GSTA1",
+      "REG1B",
+      "REG3A"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Adipocyte progenitor cells",
+    "species": "human",
+    "positive_markers": [
+      "WT1",
+      "HOXC9",
+      "SCARA5",
+      "TCF7L1",
+      "HOXC8",
+      "NRG4",
+      "FGF10",
+      "EBF2"
+    ],
+    "supporting_markers": [
+      "EGFR",
+      "GATA3",
+      "ZNF521",
+      "PPARG",
+      "SULT1E1",
+      "WISP2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Adipocytes",
+    "species": "human",
+    "positive_markers": [
+      "MT2A",
+      "TSPO",
+      "CAVIN1",
+      "COL6A2",
+      "NQO1",
+      "MMP2",
+      "METRN",
+      "MYO1C"
+    ],
+    "supporting_markers": [
+      "METRNL",
+      "LRP1",
+      "HOXC9",
+      "STAT6",
+      "TFE3",
+      "CPPED1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Adrenergic neurons",
+    "species": "human",
+    "positive_markers": [
+      "TH",
+      "SLC12A7",
+      "DDC",
+      "PNMT",
+      "NPFF",
+      "SLC18A2",
+      "DBH",
+      "SYT1"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Airway epithelial cells",
+    "species": "human",
+    "positive_markers": [
+      "CDH1",
+      "AQP1",
+      "ADH7",
+      "SEC14L3"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Airway goblet cells",
+    "species": "human",
+    "positive_markers": [
+      "DUSP4",
+      "MUC4",
+      "SCGB3A1",
+      "MUC5B",
+      "SPDEF",
+      "GALNT5",
+      "MUC16",
+      "MUC5AC"
+    ],
+    "supporting_markers": [
+      "MUC20",
+      "GALNT6",
+      "FXYD3",
+      "GGH",
+      "AGR2",
+      "AQP5"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Airway smooth muscle cells",
+    "species": "human",
+    "positive_markers": [
+      "ACTA2",
+      "FOXF1",
+      "NOG",
+      "GATA5"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Alpha cells",
+    "species": "human",
+    "positive_markers": [
+      "FXYD5",
+      "ALDH1A1",
+      "CHGA",
+      "CRYBA2",
+      "TTR",
+      "GCG",
+      "SCGN",
+      "PCSK2"
+    ],
+    "supporting_markers": [
+      "SCGB2A1",
+      "TM4SF4",
+      "NEUROD1",
+      "MAFB",
+      "GC",
+      "PEMT"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Alveolar macrophages",
+    "species": "human",
+    "positive_markers": [
+      "S100A4",
+      "ITGAX",
+      "MARCO",
+      "MRC1",
+      "GNGT2",
+      "CXCL2",
+      "CLEC7A",
+      "MPP1"
+    ],
+    "supporting_markers": [
+      "G0S2",
+      "TNFAIP2",
+      "GPNMB",
+      "CD36",
+      "IL1B",
+      "GAL"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Anterior pituitary gland cells",
+    "species": "human",
+    "positive_markers": [
+      "POMC",
+      "PRL",
+      "PCSK1",
+      "PAX7",
+      "FSHB",
+      "GNRHR",
+      "GH1",
+      "IGSF1"
+    ],
+    "supporting_markers": [
+      "POU1F1",
+      "TSHB",
+      "LHB",
+      "NUCB2",
+      "NKTR",
+      "MEST"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Astrocytes",
+    "species": "human",
+    "positive_markers": [
+      "GJA1",
+      "S100B",
+      "FGFR3",
+      "GFAP",
+      "AQP4",
+      "GPR37L1",
+      "SLC1A2",
+      "SLC1A3"
+    ],
+    "supporting_markers": [
+      "VIM",
+      "APOE",
+      "AGT",
+      "PLXNB1",
+      "SLC6A11",
+      "SYNE1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "B cells",
+    "species": "human",
+    "positive_markers": [
+      "CD74",
+      "CD52",
+      "HLA-DRA",
+      "CXCR4",
+      "CD79A",
+      "CD79B",
+      "IGHM",
+      "HMGA1"
+    ],
+    "supporting_markers": [
+      "BCL11A",
+      "CD24",
+      "IGLC2",
+      "VPREB3",
+      "PTPRC",
+      "MS4A1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "B cells memory",
+    "species": "human",
+    "positive_markers": [
+      "CD37",
+      "PTPRC",
+      "LTB",
+      "IGKC",
+      "CD69",
+      "CD79A",
+      "CD79B",
+      "IGHM"
+    ],
+    "supporting_markers": [
+      "GNG7",
+      "CD27",
+      "MS4A1",
+      "ADAM28",
+      "VPREB3",
+      "ZBTB32"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "B cells naive",
+    "species": "human",
+    "positive_markers": [
+      "CD74",
+      "CD52",
+      "CD37",
+      "LTB",
+      "IGKC",
+      "FOXP1",
+      "CD79B",
+      "IGHM"
+    ],
+    "supporting_markers": [
+      "MS4A1",
+      "CD79A",
+      "HLA-DQB1",
+      "TNFRSF13C",
+      "LINC00926",
+      "IGHD"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Basal cells",
+    "species": "human",
+    "positive_markers": [
+      "KRT5",
+      "LAMB3",
+      "KRT15",
+      "LAMC2",
+      "KRT14",
+      "MYLK",
+      "KRT6B",
+      "TP63"
+    ],
+    "supporting_markers": [
+      "BMP7",
+      "ACADVL",
+      "PLP2",
+      "HEBP2",
+      "ANXA11",
+      "RAB13"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Basophils",
+    "species": "human",
+    "positive_markers": [
+      "CD44",
+      "IGFBP7",
+      "ID1",
+      "PERP",
+      "CD69",
+      "FADS1",
+      "GPR183",
+      "CCL4"
+    ],
+    "supporting_markers": [
+      "HIST1H2AC",
+      "CDH1",
+      "FBXO9",
+      "BMP4",
+      "FADS2",
+      "HIST1H1D"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Bergmann glia",
+    "species": "human",
+    "positive_markers": [
+      "VIM",
+      "ITGB1",
+      "HOPX",
+      "A2M",
+      "METRN",
+      "ZEB2",
+      "GJA1",
+      "EGFR"
+    ],
+    "supporting_markers": [
+      "S100B",
+      "PTCH1",
+      "CDC42EP4",
+      "P2RX7",
+      "BICD2",
+      "SLC4A4"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Beta cells",
+    "species": "human",
+    "positive_markers": [
+      "INS",
+      "IAPP",
+      "SCGN",
+      "HOPX",
+      "MEG3",
+      "PCSK2",
+      "SLC30A8",
+      "NEUROD1"
+    ],
+    "supporting_markers": [
+      "PAX6",
+      "G6PC2",
+      "MAFB",
+      "SCGB2A1",
+      "NPTX2",
+      "PCSK1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Cajal-Retzius cells",
+    "species": "human",
+    "positive_markers": [
+      "HAR1A",
+      "RELN",
+      "EBF3",
+      "EOMES",
+      "CALB2",
+      "CNR1",
+      "PABPN1",
+      "RNF138"
+    ],
+    "supporting_markers": [
+      "SLC25A36",
+      "TRIM44",
+      "AATF",
+      "CCM2",
+      "NUDT2",
+      "DACH1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Cardiac stem and precursor cells",
+    "species": "human",
+    "positive_markers": [
+      "TBX3",
+      "ISL1",
+      "ANKRD1",
+      "MESP1",
+      "WNT5A",
+      "TBX4",
+      "NKX2-5",
+      "ADGRL2"
+    ],
+    "supporting_markers": [
+      "WT1",
+      "BMP4",
+      "ETV2",
+      "KITLG",
+      "GATA4",
+      "FUT4"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Cardiomyocytes",
+    "species": "human",
+    "positive_markers": [
+      "HMGB2",
+      "CTNNB1",
+      "CXCR4",
+      "TPM1",
+      "CKB",
+      "FHL2",
+      "CTGF",
+      "PDLIM5"
+    ],
+    "supporting_markers": [
+      "ADIPOR1",
+      "ADM",
+      "SGPL1",
+      "MYL4",
+      "CD36",
+      "BMP4"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Cholangiocytes",
+    "species": "human",
+    "positive_markers": [
+      "KRT19",
+      "CLDN4",
+      "ELF3",
+      "CD24",
+      "AGR2",
+      "EPCAM",
+      "PIGR",
+      "LGALS4"
+    ],
+    "supporting_markers": [
+      "TFF3",
+      "LCN2",
+      "TACSTD2",
+      "KRT7",
+      "CXCL1",
+      "TFF1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Cholinergic neurons",
+    "species": "human",
+    "positive_markers": [
+      "ACLY",
+      "BRCA1",
+      "TAC1",
+      "SLC18A3",
+      "ACHE",
+      "CHAT",
+      "SLC5A7"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Chondrocytes",
+    "species": "human",
+    "positive_markers": [
+      "ATF4",
+      "GADD45B",
+      "ATRX",
+      "MGP",
+      "EMP1",
+      "S100A9",
+      "LUM",
+      "TCF4"
+    ],
+    "supporting_markers": [
+      "S100A8",
+      "STAT1",
+      "LCN2",
+      "IGF2",
+      "DLK1",
+      "CYTL1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Choroid plexus cells",
+    "species": "human",
+    "positive_markers": [
+      "TTR",
+      "CHMP1A",
+      "AQP1",
+      "SLC26A11",
+      "SOSTDC1",
+      "KL",
+      "SLC4A10",
+      "CLIC6"
+    ],
+    "supporting_markers": [
+      "CLDN1",
+      "SLC29A4",
+      "PRLR",
+      "SLC13A4",
+      "CLDN2",
+      "WFIKKN2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Chromaffin cells",
+    "species": "human",
+    "positive_markers": [
+      "SNAPIN",
+      "IGF2",
+      "SERPINE1",
+      "SLC12A2",
+      "CHGA",
+      "PLAT",
+      "PIK3C2A",
+      "GJD2"
+    ],
+    "supporting_markers": [
+      "STX1A",
+      "NPY",
+      "RAPGEF2",
+      "P2RY1",
+      "PLD1",
+      "PNMT"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Ciliated cells",
+    "species": "human",
+    "positive_markers": [
+      "TUBB4B",
+      "FOXJ1",
+      "SEC14L3",
+      "CCDC181",
+      "ODF3B",
+      "USMG5",
+      "FAM161A",
+      "CCDC39"
+    ],
+    "supporting_markers": [
+      "LRRC23",
+      "CYP2S1",
+      "SCGB1A1",
+      "APPL2",
+      "CCDC17",
+      "CCDC153"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Clara cells",
+    "species": "human",
+    "positive_markers": [
+      "SFTPC",
+      "SCGB3A2",
+      "SCGB1A1",
+      "MUC1",
+      "SFTPA1",
+      "SCGB3A1",
+      "CYP4B1",
+      "SFTPD"
+    ],
+    "supporting_markers": [
+      "ALDH1A1",
+      "MUC4",
+      "AHR",
+      "MUC5B",
+      "LEPR",
+      "CTSE"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Crypt cells",
+    "species": "human",
+    "positive_markers": [
+      "HOPX",
+      "SLC12A2",
+      "MSI1",
+      "OLFM4",
+      "SMOC2",
+      "ASCL2",
+      "EPHB2",
+      "BMI1"
+    ],
+    "supporting_markers": [
+      "PROM1",
+      "LRIG1",
+      "TERT",
+      "KCNQ1",
+      "LGR5",
+      "AXIN2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Decidual cells",
+    "species": "human",
+    "positive_markers": [
+      "IL32",
+      "AREG",
+      "CTSW",
+      "TRDC",
+      "IGFBP1",
+      "XCL2",
+      "PRL",
+      "XCL1"
+    ],
+    "supporting_markers": [
+      "KLRC1",
+      "CST7"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Delta cells",
+    "species": "human",
+    "positive_markers": [
+      "SST",
+      "HHEX",
+      "ISL1",
+      "RBP4",
+      "SCGN",
+      "IAPP",
+      "PCSK1",
+      "GPC5-AS1"
+    ],
+    "supporting_markers": [
+      "FFAR4",
+      "FRZB",
+      "KCNK16",
+      "PDX1",
+      "UCP2",
+      "EDN3"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Dendritic cells",
+    "species": "human",
+    "positive_markers": [
+      "FTL",
+      "HLA-A",
+      "HLA-B",
+      "HLA-C",
+      "S100A4",
+      "ANXA1",
+      "HLA-DRA",
+      "HLA-DPB1"
+    ],
+    "supporting_markers": [
+      "HLA-DRB1",
+      "HLA-DPA1",
+      "PTPRC",
+      "LGALS3",
+      "CTSS",
+      "AIF1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Distal tubule cells",
+    "species": "human",
+    "positive_markers": [
+      "SLC8A1",
+      "WNK1",
+      "RHCG",
+      "AQP2",
+      "KCNJ16",
+      "KCNJ1",
+      "UMOD",
+      "AVPR2"
+    ],
+    "supporting_markers": [
+      "WNK4",
+      "VDR",
+      "SLC12A3",
+      "SOSTDC1",
+      "CLDN8",
+      "PGAM2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Dopaminergic neurons",
+    "species": "human",
+    "positive_markers": [
+      "SMAD3",
+      "TH",
+      "DDC",
+      "SLC6A3",
+      "SLC18A3",
+      "SLC18A2",
+      "PITX3",
+      "NEUROD6"
+    ],
+    "supporting_markers": [
+      "NR4A2",
+      "KCNJ6",
+      "FOXA2",
+      "SCN2A",
+      "CADPS2",
+      "ZIM3"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Ductal cells",
+    "species": "human",
+    "positive_markers": [
+      "S100A10",
+      "PERP",
+      "KRT19",
+      "CLDN4",
+      "TACSTD2",
+      "KRT7",
+      "SLPI",
+      "WFDC2"
+    ],
+    "supporting_markers": [
+      "GDF15",
+      "MMP7",
+      "CTSH",
+      "TSPAN8",
+      "ALDH1A3",
+      "LAMB3"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Embryonic stem cells",
+    "species": "human",
+    "positive_markers": [
+      "CD59",
+      "LMNA",
+      "CTNNB1",
+      "CD9",
+      "CD24",
+      "EPCAM",
+      "STAT3",
+      "HES1"
+    ],
+    "supporting_markers": [
+      "KLF4",
+      "ITGB1",
+      "IL6ST",
+      "NR6A1",
+      "SMAD2",
+      "TRIM28"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Endothelial cells",
+    "species": "human",
+    "positive_markers": [
+      "S100A10",
+      "SRGN",
+      "IGFBP7",
+      "ID3",
+      "TM4SF1",
+      "SPARC",
+      "GNG11",
+      "ID1"
+    ],
+    "supporting_markers": [
+      "EGFL7",
+      "CLDN5",
+      "CD9",
+      "TIMP3",
+      "CAV1",
+      "RNASE1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Endothelial cells (aorta)",
+    "species": "human",
+    "positive_markers": [
+      "BMX",
+      "EHD3",
+      "HYAL2",
+      "SOD3",
+      "GIMAP4",
+      "CYP1B1",
+      "BACE2",
+      "APH1B"
+    ],
+    "supporting_markers": [
+      "ARL4D",
+      "EFNB2",
+      "CYTL1",
+      "PROCR",
+      "LMCD1",
+      "EMILIN1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Endothelial cells (blood brain barrier)",
+    "species": "human",
+    "positive_markers": [
+      "ALCAM",
+      "TNFRSF21",
+      "LEF1",
+      "GFAP",
+      "SLC13A4",
+      "FOXL2",
+      "PPARD",
+      "SLC23A2"
+    ],
+    "supporting_markers": [
+      "ZIC3",
+      "SLC19A1",
+      "TNFRSF19",
+      "FOXF2",
+      "SLC38A3",
+      "ABCG2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Enteric glia cells",
+    "species": "human",
+    "positive_markers": [
+      "S100B",
+      "GFRA3",
+      "ALDH1A3",
+      "GFAP",
+      "NOS2",
+      "FOXD3",
+      "SLC18A2",
+      "SOX10"
+    ],
+    "supporting_markers": [
+      "DHRS3",
+      "ALDH1A1",
+      "DKK3",
+      "INTS6",
+      "MPZ",
+      "RGS16"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Enteric neurons",
+    "species": "human",
+    "positive_markers": [
+      "GAL",
+      "NMU",
+      "CARTPT",
+      "TAC1",
+      "VIP",
+      "CCK",
+      "FBXO7",
+      "DMKN"
+    ],
+    "supporting_markers": [
+      "PLEKHA5",
+      "RGS3",
+      "ATF5",
+      "EFNA5",
+      "TM4SF4",
+      "VEZT"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Enterochromaffin cells",
+    "species": "human",
+    "positive_markers": [
+      "ADM",
+      "AFP",
+      "REG4",
+      "TRPA1",
+      "GJB1",
+      "TPH1",
+      "FGF1",
+      "CRH"
+    ],
+    "supporting_markers": [
+      "SLC18A1",
+      "ADGRG4",
+      "LMX1A",
+      "PIEZO2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Enterocytes",
+    "species": "human",
+    "positive_markers": [
+      "FABP1",
+      "SLC26A3",
+      "KLF5",
+      "CA1",
+      "MAOA",
+      "KRT20",
+      "CDH17",
+      "SLC51B"
+    ],
+    "supporting_markers": [
+      "SLC39A5",
+      "VIL1",
+      "AQP8",
+      "FABP2",
+      "PPARG",
+      "ANPEP"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Enteroendocrine cells",
+    "species": "human",
+    "positive_markers": [
+      "GCG",
+      "SST",
+      "IAPP",
+      "CPE",
+      "SCGN",
+      "CHGB",
+      "CHGA",
+      "NUCB2"
+    ],
+    "supporting_markers": [
+      "FABP5",
+      "NEUROD1",
+      "ISL1",
+      "ALCAM",
+      "FFAR4",
+      "VEGFA"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Eosinophils",
+    "species": "human",
+    "positive_markers": [
+      "CD69",
+      "S100A9",
+      "CCL5",
+      "CSF2",
+      "C5AR1",
+      "RNASE2",
+      "CPA3",
+      "IL5"
+    ],
+    "supporting_markers": [
+      "CXCR3",
+      "SIGLEC10",
+      "PRG2",
+      "CCR1",
+      "FCER2",
+      "CCL11"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Ependymal cells",
+    "species": "human",
+    "positive_markers": [
+      "ZMYND10",
+      "ENKUR",
+      "ODF3B",
+      "CFAP44",
+      "FOXJ1",
+      "CCDC153",
+      "AK7",
+      "TM4SF1"
+    ],
+    "supporting_markers": [
+      "KRT15",
+      "PLTP",
+      "RFX2",
+      "RIIAD1",
+      "MYB",
+      "STOML3"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Epiblast cells",
+    "species": "human",
+    "positive_markers": [
+      "EPCAM",
+      "CLDN7",
+      "BCL11A",
+      "CDH1",
+      "CXCL12",
+      "TDGF1",
+      "LEF1",
+      "CLDN6"
+    ],
+    "supporting_markers": [
+      "SOX11",
+      "ERAS",
+      "POU5F1",
+      "SLC35D3",
+      "NANOG",
+      "INA"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Epithelial cells",
+    "species": "human",
+    "positive_markers": [
+      "EPCAM",
+      "CD24",
+      "MUC1",
+      "CDH1",
+      "ANPEP",
+      "KRT7",
+      "CLDN1",
+      "SCGB1A1"
+    ],
+    "supporting_markers": [
+      "KRT14",
+      "TP63",
+      "KRT13",
+      "KRT3",
+      "OCLN",
+      "ELF3"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Epsilon cells",
+    "species": "human",
+    "positive_markers": [
+      "S100A6",
+      "KRT8",
+      "PHGR1",
+      "SPINK1",
+      "FRZB",
+      "BMP4",
+      "OLFML3",
+      "SLC6A16"
+    ],
+    "supporting_markers": [
+      "ASGR1",
+      "ACSL1",
+      "PTGER4",
+      "NKX2-2",
+      "HMGCS2",
+      "APOH"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Erythroblasts",
+    "species": "human",
+    "positive_markers": [
+      "CD44",
+      "IGBP1",
+      "ITGB1",
+      "GRSF1",
+      "ENG",
+      "TFRC",
+      "BPGM",
+      "CDH1"
+    ],
+    "supporting_markers": [
+      "CFP",
+      "GYPA",
+      "GATA1",
+      "ETS1",
+      "PIEZO1",
+      "EPOR"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Erythroid-like and erythroid precursor cells",
+    "species": "human",
+    "positive_markers": [
+      "GYPC",
+      "HBB",
+      "SLC25A37",
+      "SNCA",
+      "ALAS2",
+      "CD44",
+      "GYPB",
+      "EPB42"
+    ],
+    "supporting_markers": [
+      "GYPA",
+      "CD47",
+      "KLF1",
+      "RHAG",
+      "CD36",
+      "CD55"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Fibroblasts",
+    "species": "human",
+    "positive_markers": [
+      "VIM",
+      "S100A4",
+      "KLF6",
+      "SPARC",
+      "DCN",
+      "LUM",
+      "CD44",
+      "COL6A2"
+    ],
+    "supporting_markers": [
+      "GSN",
+      "C1S",
+      "EGR1",
+      "COL1A2",
+      "FOSB",
+      "IGFBP6"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Follicular cells",
+    "species": "human",
+    "positive_markers": [
+      "PRLR",
+      "TPO",
+      "FOXE1",
+      "SLC26A7",
+      "TG",
+      "IYD",
+      "DIO1",
+      "SLC16A11"
+    ],
+    "supporting_markers": [
+      "TTF1",
+      "ASGR1",
+      "SLC6A4",
+      "TSHR",
+      "CDH16",
+      "KCNIP3"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Foveolar cells",
+    "species": "human",
+    "positive_markers": [
+      "LGALS4",
+      "TFF1",
+      "AKR1B10",
+      "KRT20",
+      "IL33",
+      "CLDN18",
+      "MUC5AC",
+      "PTGR1"
+    ],
+    "supporting_markers": [
+      "LGALS2",
+      "MUC1",
+      "GSTA1",
+      "PSCA",
+      "PGC",
+      "PLA2G1B"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "GABAergic neurons",
+    "species": "human",
+    "positive_markers": [
+      "SST",
+      "PARM1",
+      "GAD2",
+      "PAX2",
+      "SEMA3C",
+      "MYBPC1",
+      "PVALB",
+      "TNFAIP8L3"
+    ],
+    "supporting_markers": [
+      "VIP",
+      "GAD1",
+      "SLC32A1",
+      "SLC6A1",
+      "DLX1",
+      "GADD45B"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Gamma (PP) cells",
+    "species": "human",
+    "positive_markers": [
+      "PPY",
+      "SCGN",
+      "CMTM8",
+      "SCGB2A1",
+      "NEUROD1",
+      "GPC5-AS1",
+      "AQP3",
+      "ISL1"
+    ],
+    "supporting_markers": [
+      "PAX6",
+      "FXYD2",
+      "ARX",
+      "MEIS1",
+      "ZNF503",
+      "THSD7A"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Gamma delta T cells",
+    "species": "human",
+    "positive_markers": [
+      "H2AFZ",
+      "NKG7",
+      "GNLY",
+      "CCL5",
+      "CD7",
+      "CST7",
+      "TUBB",
+      "CTSW"
+    ],
+    "supporting_markers": [
+      "GZMB",
+      "GZMA",
+      "HOPX",
+      "HMGB2",
+      "KLRD1",
+      "CD247"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Gastric chief cells",
+    "species": "human",
+    "positive_markers": [
+      "EGFR",
+      "ANPEP",
+      "LEP",
+      "CHIA",
+      "KCNQ1",
+      "LGR5",
+      "CHRM3",
+      "RAB3D"
+    ],
+    "supporting_markers": [
+      "PRKCZ",
+      "BHLHA15"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Germ cells",
+    "species": "human",
+    "positive_markers": [
+      "DYNLT1",
+      "CREM",
+      "MRPL14",
+      "PRM1",
+      "PRM2",
+      "TNP1",
+      "RSBN1L",
+      "ODF2"
+    ],
+    "supporting_markers": [
+      "DDX4",
+      "NR6A1",
+      "SMCP",
+      "PGK2",
+      "DAZL",
+      "SMC1B"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Glomus cells",
+    "species": "human",
+    "positive_markers": [
+      "VIM",
+      "CALD1",
+      "HMOX2",
+      "TNFRSF1A",
+      "IL6ST",
+      "COL4A1",
+      "GJA1",
+      "EPAS1"
+    ],
+    "supporting_markers": [
+      "IL1R1",
+      "NDUFA4L2",
+      "ABCC8",
+      "MMP9",
+      "COX4I2",
+      "GFRA2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Glutaminergic neurons",
+    "species": "human",
+    "positive_markers": [
+      "MEIS2",
+      "SLC1A6",
+      "SLC17A8",
+      "SLC1A1",
+      "SLC17A7",
+      "SLC17A6",
+      "SLC1A2",
+      "GLS"
+    ],
+    "supporting_markers": [
+      "GRIN1",
+      "GRIN2B"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Glycinergic neurons",
+    "species": "human",
+    "positive_markers": [
+      "SLC6A9",
+      "SLC32A1"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Goblet cells",
+    "species": "human",
+    "positive_markers": [
+      "TFF3",
+      "PHGR1",
+      "AGR2",
+      "MUC2",
+      "ITLN1",
+      "SPINK4",
+      "MUC13",
+      "MANF"
+    ],
+    "supporting_markers": [
+      "SPDEF",
+      "GUCA2A",
+      "MUC5B",
+      "MUC4",
+      "ATOH1",
+      "MUC5AC"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Granulosa cells",
+    "species": "human",
+    "positive_markers": [
+      "AMH",
+      "INHA",
+      "MCAM",
+      "CYP19A1",
+      "FSHR",
+      "FOXL2",
+      "TNNI3",
+      "GAPDH"
+    ],
+    "supporting_markers": [
+      "FHL1",
+      "ADAMTS1",
+      "HTRA1",
+      "LOX",
+      "HSD17B1",
+      "HSD3B1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Hemangioblasts",
+    "species": "human",
+    "positive_markers": [
+      "ETV2",
+      "TAL1",
+      "T"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Hematopoietic stem cells",
+    "species": "human",
+    "positive_markers": [
+      "CD59",
+      "TXNIP",
+      "TAF7",
+      "CD44",
+      "CXCR4",
+      "PTPRC",
+      "MGST1",
+      "EGR1"
+    ],
+    "supporting_markers": [
+      "MYADM",
+      "ELF1",
+      "CD48",
+      "GNL3",
+      "HMGB3",
+      "CTNNAL1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Hepatic stellate cells",
+    "species": "human",
+    "positive_markers": [
+      "IGFBP7",
+      "SPARC",
+      "MYL9",
+      "TPM2",
+      "CYR61",
+      "COL1A2",
+      "CTGF",
+      "DCN"
+    ],
+    "supporting_markers": [
+      "COL1A1",
+      "COL3A1",
+      "IGFBP6",
+      "CCL2",
+      "BGN",
+      "RBP1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Hepatoblasts",
+    "species": "human",
+    "positive_markers": [
+      "KRT18",
+      "KRT8",
+      "DLK1",
+      "ALB",
+      "MET",
+      "HHEX",
+      "AFP",
+      "HNF1B"
+    ],
+    "supporting_markers": [
+      "HNF4A",
+      "CDH1",
+      "SMAD5",
+      "KRT14",
+      "PROX1",
+      "FOXM1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Hepatocytes",
+    "species": "human",
+    "positive_markers": [
+      "SERPINA1",
+      "ALB",
+      "APOA1",
+      "ORM1",
+      "APOC3",
+      "APOA2",
+      "TTR",
+      "GLUL"
+    ],
+    "supporting_markers": [
+      "AMBP",
+      "FGL1",
+      "APOH",
+      "SAT2",
+      "WTAP",
+      "BNIP3"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "His bundle cells",
+    "species": "human",
+    "positive_markers": [
+      "GJC1",
+      "GJA5",
+      "KCNK3"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Immature neurons",
+    "species": "human",
+    "positive_markers": [
+      "NES",
+      "CREB1",
+      "NF1",
+      "POMC",
+      "SOX5",
+      "CUL5",
+      "NEUROD1",
+      "RND2"
+    ],
+    "supporting_markers": [
+      "NOTCH3",
+      "ROBO1",
+      "SSTR2",
+      "STIM2",
+      "PROX1",
+      "ASCL1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Intercalated cells",
+    "species": "human",
+    "positive_markers": [
+      "SLC4A1",
+      "JAG1",
+      "SLC4A8",
+      "ADGRF5",
+      "AP1S3",
+      "RHCG",
+      "SLC26A11",
+      "ATP6V1B1"
+    ],
+    "supporting_markers": [
+      "SLC26A4",
+      "ATP6V1C2",
+      "P2RY14",
+      "DMRT2",
+      "CLCNKA",
+      "FOXI1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Interneurons",
+    "species": "human",
+    "positive_markers": [
+      "RGS10",
+      "SST",
+      "CXCL14",
+      "PDE1A",
+      "ISL1",
+      "PTPRO",
+      "LHX1",
+      "NOV"
+    ],
+    "supporting_markers": [
+      "PAX2",
+      "OPRM1",
+      "EVX1",
+      "PVALB",
+      "PAX6",
+      "NDNF"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Ionocytes",
+    "species": "human",
+    "positive_markers": [
+      "SLC12A2",
+      "KCNMA1",
+      "CFTR",
+      "TFCP2L1",
+      "ASCL3",
+      "FOXN4",
+      "FOXI1",
+      "CLCNKB"
+    ],
+    "supporting_markers": [
+      "SCGB1A1",
+      "SLC9A7",
+      "SLC9A4"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Juxtaglomerular cells",
+    "species": "human",
+    "positive_markers": [
+      "CNN1",
+      "MYH11",
+      "ACTA2",
+      "REN",
+      "TH",
+      "TRPV4"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Keratinocytes",
+    "species": "human",
+    "positive_markers": [
+      "KRT10",
+      "KRT17",
+      "CD24",
+      "S100A14",
+      "KRT15",
+      "AQP3",
+      "KRT5",
+      "SFN"
+    ],
+    "supporting_markers": [
+      "KRT14",
+      "CALML5",
+      "DMKN",
+      "LCN2",
+      "REL",
+      "SPRR1B"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Kidney progenitor cells",
+    "species": "human",
+    "positive_markers": [
+      "WT1",
+      "CITED1",
+      "PAX2",
+      "EYA1",
+      "SIX2",
+      "SALL1",
+      "OSR1"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Kupffer cells",
+    "species": "human",
+    "positive_markers": [
+      "FTL",
+      "G6PD",
+      "LYZ",
+      "SLC40A1",
+      "PLTP",
+      "TIMD4",
+      "IRF7",
+      "CD14"
+    ],
+    "supporting_markers": [
+      "VSIG4",
+      "CD38",
+      "MSR1",
+      "C1QA",
+      "DNASE1L3",
+      "CD163"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Langerhans cells",
+    "species": "human",
+    "positive_markers": [
+      "PTPRC",
+      "GPNMB",
+      "EPCAM",
+      "PRKCB",
+      "EHF",
+      "FCGR2A",
+      "CLDN1",
+      "AHR"
+    ],
+    "supporting_markers": [
+      "ACHE",
+      "TLR4",
+      "CD1A",
+      "CD80",
+      "TLR9",
+      "CD207"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Leydig cells",
+    "species": "human",
+    "positive_markers": [
+      "PTGDS",
+      "GJA1",
+      "SMOC2",
+      "CYP11A1",
+      "HSD17B3",
+      "CYP17A1",
+      "INSL3",
+      "LHCGR"
+    ],
+    "supporting_markers": [
+      "STAR",
+      "CFD",
+      "PLAUR",
+      "ALDH1A1",
+      "IGFBP5",
+      "IGFBP3"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Loop of Henle cells",
+    "species": "human",
+    "positive_markers": [
+      "THBS1",
+      "CXCL1",
+      "GEM",
+      "PTGS2",
+      "PARVB",
+      "DEFB1",
+      "SH3RF2",
+      "CDKN1C"
+    ],
+    "supporting_markers": [
+      "ARID5A",
+      "NEK6",
+      "CALCRL",
+      "CLDN10",
+      "SMARCD3",
+      "FGA"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Luminal epithelial cells",
+    "species": "human",
+    "positive_markers": [
+      "BTG1",
+      "ANXA1",
+      "CD74",
+      "CD9",
+      "KRT8",
+      "HMGA1",
+      "KRT18",
+      "CEBPD"
+    ],
+    "supporting_markers": [
+      "AGR2",
+      "CLDN4",
+      "SLPI",
+      "AQP3",
+      "KRT19",
+      "WFDC2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Luteal cells",
+    "species": "human",
+    "positive_markers": [
+      "PRLR",
+      "LHCGR",
+      "AKT1",
+      "GAPDH",
+      "PMPCB",
+      "PGAM1",
+      "GAMT",
+      "BCAT1"
+    ],
+    "supporting_markers": [
+      "ADAMTS1",
+      "SDC1",
+      "FKBP5",
+      "AIF1L",
+      "CHKA",
+      "CITED4"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Macrophages",
+    "species": "human",
+    "positive_markers": [
+      "S100A4",
+      "CD74",
+      "TYROBP",
+      "AIF1",
+      "LGALS3",
+      "RBPJ",
+      "CYBB",
+      "MS4A7"
+    ],
+    "supporting_markers": [
+      "MAF",
+      "CLEC7A",
+      "DAB2",
+      "GPNMB",
+      "CXCL16",
+      "TREM2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Mammary epithelial cells",
+    "species": "human",
+    "positive_markers": [
+      "KRT18",
+      "KRT8",
+      "KRT19",
+      "KRT7",
+      "KRT5",
+      "SERPINB5",
+      "STAT3",
+      "NNMT"
+    ],
+    "supporting_markers": [
+      "CDH1",
+      "CLDN1",
+      "IRF6",
+      "MMP14",
+      "KRT14",
+      "CITED1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Mast cells",
+    "species": "human",
+    "positive_markers": [
+      "DUSP1",
+      "HPGDS",
+      "TPSAB1",
+      "CPA3",
+      "TPSB2",
+      "RGS13",
+      "VWA5A",
+      "KIT"
+    ],
+    "supporting_markers": [
+      "IL1RL1",
+      "HDC",
+      "CD55",
+      "FCER1A",
+      "MAOB",
+      "CXCR4"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Megakaryocytes",
+    "species": "human",
+    "positive_markers": [
+      "CIB1",
+      "KIF5B",
+      "CXCR4",
+      "CD9",
+      "S100A9",
+      "S100A8",
+      "SPON2",
+      "PLEK"
+    ],
+    "supporting_markers": [
+      "PECAM1",
+      "MAFG",
+      "VWF",
+      "VEGFA",
+      "IL2RA",
+      "LRP1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Melanocytes",
+    "species": "human",
+    "positive_markers": [
+      "HSPB1",
+      "PTGDS",
+      "GPNMB",
+      "CRABP1",
+      "POMC",
+      "TFAP2A",
+      "PTN",
+      "SOX9"
+    ],
+    "supporting_markers": [
+      "ENPP1",
+      "PPARG",
+      "BNC2",
+      "RAB38",
+      "PRKCA",
+      "TP63"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Meningeal cells",
+    "species": "human",
+    "positive_markers": [
+      "IGFBP2",
+      "DCN",
+      "LUM",
+      "PTGDS",
+      "PDGFRA",
+      "IL33",
+      "NOV",
+      "FOXC1"
+    ],
+    "supporting_markers": [
+      "VTN",
+      "SLC47A1",
+      "NNAT",
+      "IGF2",
+      "ALDH1A2",
+      "FOXC2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Merkel cells",
+    "species": "human",
+    "positive_markers": [
+      "ID2",
+      "KRT18",
+      "KRT8",
+      "TTF1",
+      "KRT20",
+      "SOX2",
+      "ATOH1",
+      "GFI1"
+    ],
+    "supporting_markers": [
+      "TRPV4",
+      "POU4F3",
+      "PIEZO2",
+      "GNAI1",
+      "CHGA",
+      "VIL1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Mesangial cells",
+    "species": "human",
+    "positive_markers": [
+      "CALD1",
+      "SH3BGRL",
+      "CSTB",
+      "MYL9",
+      "ARID5B",
+      "TPM2",
+      "AKAP12",
+      "FLNA"
+    ],
+    "supporting_markers": [
+      "ACTN1",
+      "ROCK1",
+      "HOPX",
+      "FN1",
+      "MEF2C",
+      "FILIP1L"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Mesothelial cells",
+    "species": "human",
+    "positive_markers": [
+      "MSLN",
+      "RSPO1",
+      "FRAS1",
+      "LRRN4",
+      "KRT7",
+      "RARRES2",
+      "CRLS1",
+      "KRT5"
+    ],
+    "supporting_markers": [
+      "EFEMP1",
+      "MIR22HG",
+      "WT1",
+      "SULF1",
+      "COBLL1",
+      "MEDAG"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Microfold cells",
+    "species": "human",
+    "positive_markers": [
+      "CYBA",
+      "ANXA5",
+      "MARCKSL1",
+      "CTSD",
+      "RAC2",
+      "FABP5",
+      "NFIC",
+      "CTSH"
+    ],
+    "supporting_markers": [
+      "CXCL16",
+      "EHF",
+      "MFGE8",
+      "TNFAIP2",
+      "IRF6",
+      "CCL20"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Microglia",
+    "species": "human",
+    "positive_markers": [
+      "FOS",
+      "EGR1",
+      "AIF1",
+      "CTSS",
+      "S100A9",
+      "CD53",
+      "S100A8",
+      "MAFB"
+    ],
+    "supporting_markers": [
+      "GPR183",
+      "CCL4",
+      "SPHK1",
+      "ALDH1A2",
+      "MRC2",
+      "OLFML3"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Monocytes",
+    "species": "human",
+    "positive_markers": [
+      "PSAP",
+      "S100A4",
+      "IFITM3",
+      "CD44",
+      "PTPRC",
+      "PLSCR1",
+      "S100A9",
+      "MX1"
+    ],
+    "supporting_markers": [
+      "OAS1",
+      "IFIT3",
+      "IFIT1",
+      "CXCR4",
+      "IRF7",
+      "MNDA"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Motor neurons",
+    "species": "human",
+    "positive_markers": [
+      "ISL1",
+      "MNX1",
+      "NKX6-1",
+      "EVX1",
+      "SIM1",
+      "NGFR",
+      "FGF1",
+      "EVX2"
+    ],
+    "supporting_markers": [
+      "CHAT",
+      "LHX3",
+      "EN1",
+      "ISL2",
+      "VSX2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Myeloid-derived suppressor cells",
+    "species": "human",
+    "positive_markers": [
+      "S100A4",
+      "S100A9",
+      "S100A8",
+      "FCGR3A",
+      "IL4R",
+      "CD33",
+      "ICAM1",
+      "CD1D"
+    ],
+    "supporting_markers": [
+      "CEACAM8",
+      "CD80",
+      "CXCR1",
+      "FUT4",
+      "ITGAM",
+      "CCR2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Myoblasts",
+    "species": "human",
+    "positive_markers": [
+      "TNFRSF12A",
+      "CCL2",
+      "IGF2",
+      "CXCL1",
+      "TBX3",
+      "SIX1",
+      "EGFR",
+      "STK40"
+    ],
+    "supporting_markers": [
+      "ANGPT2",
+      "ZBTB16",
+      "BRAF",
+      "TTN",
+      "MYD88",
+      "LIF"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Myocytes",
+    "species": "human",
+    "positive_markers": [
+      "CHODL",
+      "CXCR4",
+      "TPM2",
+      "FHL2",
+      "PTK2",
+      "MMP2",
+      "WIPF1",
+      "NBR1"
+    ],
+    "supporting_markers": [
+      "EDN1",
+      "DOCK5",
+      "LAMB1",
+      "CLOCK",
+      "CAPZA3",
+      "SIX1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Myoepithelial cells",
+    "species": "human",
+    "positive_markers": [
+      "MYL9",
+      "MYLK",
+      "ACTG2",
+      "KRT5",
+      "KRT14",
+      "CNN1",
+      "MYH11",
+      "ACTA2"
+    ],
+    "supporting_markers": [
+      "KRT17",
+      "SFN",
+      "LAMB3",
+      "SPHK1",
+      "FST",
+      "MDFI"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Myofibroblasts",
+    "species": "human",
+    "positive_markers": [
+      "CALD1",
+      "MYL9",
+      "ACTA2",
+      "TAGLN",
+      "PALLD",
+      "CDH11",
+      "DES",
+      "TNS1"
+    ],
+    "supporting_markers": [
+      "GFAP"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "M\u00fcller cells",
+    "species": "human",
+    "positive_markers": [
+      "ITM2B",
+      "PRDX6",
+      "DBI",
+      "CD44",
+      "GLUL",
+      "CLU",
+      "S100A16",
+      "HES1"
+    ],
+    "supporting_markers": [
+      "COL1A1",
+      "COL3A1",
+      "COL6A1",
+      "GNAI2",
+      "CA2",
+      "ANXA4"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Natural killer T cells",
+    "species": "human",
+    "positive_markers": [
+      "CD44",
+      "CXCR4",
+      "EGR1",
+      "ITGB2",
+      "GZMB",
+      "KLRB1",
+      "MAP3K8",
+      "TCF7"
+    ],
+    "supporting_markers": [
+      "PRF1",
+      "IL2RB",
+      "GATA3",
+      "ZBTB16",
+      "SLAMF7",
+      "RORA"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Neural stem/precursor cells",
+    "species": "human",
+    "positive_markers": [
+      "S100A6",
+      "RND3",
+      "HOPX",
+      "APOE",
+      "ID4",
+      "CCND2",
+      "IGF1R",
+      "NEUROD1"
+    ],
+    "supporting_markers": [
+      "SOX9",
+      "SOX2",
+      "ASCL2",
+      "SOX3",
+      "GFAP",
+      "PROM1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Neuroblasts",
+    "species": "human",
+    "positive_markers": [
+      "NES",
+      "ITGA6",
+      "PHF1",
+      "EZH2",
+      "PBX1",
+      "TACC3",
+      "SCGN",
+      "WT1"
+    ],
+    "supporting_markers": [
+      "EGFR",
+      "NEUROD1",
+      "DLL3",
+      "KLK3",
+      "SIRT1",
+      "NKX6-1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Neuroendocrine cells",
+    "species": "human",
+    "positive_markers": [
+      "SST",
+      "PRSS12",
+      "NPY",
+      "CCK",
+      "CXCL14",
+      "ABHD2",
+      "PENK",
+      "SERPINI1"
+    ],
+    "supporting_markers": [
+      "SPOCK1",
+      "NKX2-2",
+      "PPP1R1B",
+      "NRGN",
+      "TAC1",
+      "DUSP26"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Neurons",
+    "species": "human",
+    "positive_markers": [
+      "PNISR",
+      "BEX1",
+      "ENO2",
+      "BEX2",
+      "SNAP25",
+      "DYNC1I1",
+      "VSNL1",
+      "MEG3"
+    ],
+    "supporting_markers": [
+      "CAMK2N1",
+      "NEFM",
+      "STMN2",
+      "ATP6V0A1",
+      "MYO5A",
+      "SLC12A5"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Neutrophils",
+    "species": "human",
+    "positive_markers": [
+      "S100A4",
+      "SERPINB1",
+      "MPO",
+      "CTSG",
+      "ELANE",
+      "PRTN3",
+      "LYZ",
+      "S100A8"
+    ],
+    "supporting_markers": [
+      "S100A9",
+      "CD24",
+      "CSF3R",
+      "LYST",
+      "SELL",
+      "CXCL2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "NK cells",
+    "species": "human",
+    "positive_markers": [
+      "S100A4",
+      "NKG7",
+      "CCL5",
+      "GZMA",
+      "GNLY",
+      "CST7",
+      "CXCR4",
+      "CTSW"
+    ],
+    "supporting_markers": [
+      "IL2RG",
+      "CD69",
+      "CD2",
+      "HOPX",
+      "CCL4",
+      "KLRD1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Noradrenergic neurons",
+    "species": "human",
+    "positive_markers": [
+      "SLC9B2",
+      "TH",
+      "DDC",
+      "SLC6A2",
+      "SLC39A11",
+      "SLC18A3",
+      "SLC18A2",
+      "DBH"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Nuocytes",
+    "species": "human",
+    "positive_markers": [
+      "IL7R",
+      "IL13",
+      "IL1RL1",
+      "GATA3",
+      "IL5",
+      "ICOS",
+      "ARG1",
+      "CRLF2"
+    ],
+    "supporting_markers": [
+      "PTGDS",
+      "RORA",
+      "IL17RB",
+      "BCL11B"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Olfactory epithelial cells",
+    "species": "human",
+    "positive_markers": [
+      "OMP",
+      "TSTD1",
+      "STOM",
+      "MLF1",
+      "TESC",
+      "NQO1",
+      "TOLLIP",
+      "BORCS7"
+    ],
+    "supporting_markers": [
+      "WDR54",
+      "KIF9",
+      "PKIB",
+      "MAPKAP1",
+      "IFT43",
+      "DUSP14"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Oligodendrocyte progenitor cells",
+    "species": "human",
+    "positive_markers": [
+      "VCAN",
+      "PDGFRA",
+      "EPN2",
+      "TNR",
+      "GPR37L1",
+      "OLIG1",
+      "CNP",
+      "OLIG2"
+    ],
+    "supporting_markers": [
+      "PCDH15",
+      "NEU4",
+      "FYN",
+      "LAD1",
+      "ETV5",
+      "ASCL1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Oligodendrocytes",
+    "species": "human",
+    "positive_markers": [
+      "PTGDS",
+      "MBP",
+      "TF",
+      "ENPP2",
+      "CLDN11",
+      "ST18",
+      "ERMN",
+      "PLP1"
+    ],
+    "supporting_markers": [
+      "MAG",
+      "MOG",
+      "ANLN",
+      "PEX5L",
+      "TMEM63A",
+      "PLLP"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Osteoblasts",
+    "species": "human",
+    "positive_markers": [
+      "CD44",
+      "COL1A1",
+      "HIF1A",
+      "SOCS3",
+      "INSR",
+      "ITGA2",
+      "FGFR1",
+      "NF2"
+    ],
+    "supporting_markers": [
+      "SPP1",
+      "EFNB2",
+      "F2R",
+      "PENK",
+      "POSTN",
+      "ITGA5"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Osteoclast precursor cells",
+    "species": "human",
+    "positive_markers": [
+      "CYSLTR1",
+      "TNFRSF11A",
+      "TLR4",
+      "NFKB1",
+      "MITF",
+      "NFKB2",
+      "TRAF6",
+      "TREM2"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Osteoclasts",
+    "species": "human",
+    "positive_markers": [
+      "ITGB1",
+      "EGFL7",
+      "SERPINF1",
+      "HIF1A",
+      "CA2",
+      "ITGA2",
+      "SLC2A1",
+      "SPP1"
+    ],
+    "supporting_markers": [
+      "NRP2",
+      "EFNB2",
+      "SNX10",
+      "ITGAV",
+      "RAB3B",
+      "ITPR3"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Osteocytes",
+    "species": "human",
+    "positive_markers": [
+      "PFN1",
+      "EFNB2",
+      "PDPN",
+      "SOST",
+      "FGF23"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Oxyphil cells",
+    "species": "human",
+    "positive_markers": [
+      "SLC2A4",
+      "GCM2"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Pancreatic progenitor cells",
+    "species": "human",
+    "positive_markers": [
+      "RPL23A",
+      "CTNNB1",
+      "EPAS1",
+      "RGS16",
+      "YAP1",
+      "MFNG",
+      "SOX9",
+      "NKX2-2"
+    ],
+    "supporting_markers": [
+      "PDX1",
+      "NEUROG3",
+      "PTF1A",
+      "ONECUT1",
+      "ARX",
+      "CXCR4"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Pancreatic stellate cells",
+    "species": "human",
+    "positive_markers": [
+      "SPARC",
+      "COL1A2",
+      "COL6A2",
+      "COL1A1",
+      "COL3A1",
+      "COL4A1",
+      "MGP",
+      "COL6A1"
+    ],
+    "supporting_markers": [
+      "TIMP3",
+      "FN1",
+      "COL6A3",
+      "THY1",
+      "TNFAIP6",
+      "SFRP2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Paneth cells",
+    "species": "human",
+    "positive_markers": [
+      "CTNNB1",
+      "CFD",
+      "RAP1A",
+      "AGR2",
+      "LYZ",
+      "GPX2",
+      "MMP7",
+      "PLA2G2A"
+    ],
+    "supporting_markers": [
+      "RIPK2",
+      "GUCA2A",
+      "IL4R",
+      "PRSS1",
+      "CSF2",
+      "LGR4"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Parathyroid chief cells",
+    "species": "human",
+    "positive_markers": [
+      "FGFR1",
+      "LRP2",
+      "CASR",
+      "CYP27B1",
+      "PTH",
+      "VDR",
+      "KL",
+      "RAB3A"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Parietal cells",
+    "species": "human",
+    "positive_markers": [
+      "HIP1R",
+      "CD24",
+      "PODXL",
+      "PTCH1",
+      "SLC12A6",
+      "HAMP",
+      "BMI1",
+      "KCNE2"
+    ],
+    "supporting_markers": [
+      "ASAP3",
+      "SHH",
+      "ATP4B",
+      "AQP4",
+      "KCNQ1",
+      "HDC"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Peri-islet Schwann cells",
+    "species": "human",
+    "positive_markers": [
+      "GFRA3",
+      "GULP1",
+      "SEMA3B",
+      "OLFML2A",
+      "FIGN",
+      "MPZ",
+      "NGFR",
+      "INSC"
+    ],
+    "supporting_markers": [
+      "SLITRK2",
+      "VGLL3",
+      "GFRA2",
+      "GFRA1",
+      "SLITRK6",
+      "LRRTM1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Pericytes",
+    "species": "human",
+    "positive_markers": [
+      "VIM",
+      "MFGE8",
+      "PDGFRB",
+      "HIGD1B",
+      "NOTCH3",
+      "MCAM",
+      "MYO1B",
+      "ANGPT2"
+    ],
+    "supporting_markers": [
+      "KCNJ8",
+      "CTGF",
+      "CD248",
+      "COL1A1",
+      "COLEC11",
+      "HEYL"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Peritubular myoid cells",
+    "species": "human",
+    "positive_markers": [
+      "MYL9",
+      "TPM4",
+      "TPM2",
+      "TPM1",
+      "MYH11",
+      "WNT2B",
+      "SAT2",
+      "GSTM3"
+    ],
+    "supporting_markers": [
+      "RNASE1",
+      "INTS6",
+      "RARRES2",
+      "APOA1",
+      "OSR2",
+      "TMEM98"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Photoreceptor cells",
+    "species": "human",
+    "positive_markers": [
+      "CRX",
+      "RCVRN",
+      "RHO",
+      "CCDC136",
+      "TPBG",
+      "CHGA",
+      "QPCT",
+      "PCP2"
+    ],
+    "supporting_markers": [
+      "STX3",
+      "CNTNAP2",
+      "LIN7A",
+      "NLK",
+      "ADAMTS5",
+      "FRMD3"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Pinealocytes",
+    "species": "human",
+    "positive_markers": [
+      "CREM",
+      "NEUROD1",
+      "PMEPA1",
+      "ADRB1",
+      "TPH1",
+      "PDE6B",
+      "SAG",
+      "CHRNB4"
+    ],
+    "supporting_markers": [
+      "ASMT",
+      "PDE6C",
+      "CACNA1F",
+      "AANAT",
+      "CNGB1",
+      "DRD4"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Plasma cells",
+    "species": "human",
+    "positive_markers": [
+      "SSR4",
+      "CD74",
+      "CYCS",
+      "IGKC",
+      "MZB1",
+      "IGHA1",
+      "JCHAIN",
+      "IGLC2"
+    ],
+    "supporting_markers": [
+      "CD79A",
+      "TNFRSF17",
+      "IGLC3",
+      "CD27",
+      "CXCR4",
+      "EAF2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Plasmacytoid dendritic cells",
+    "species": "human",
+    "positive_markers": [
+      "ITM2C",
+      "SERPINF1",
+      "GZMB",
+      "CXCR4",
+      "JCHAIN",
+      "BCL11A",
+      "TCF4",
+      "IRF7"
+    ],
+    "supporting_markers": [
+      "IRF8",
+      "MZB1",
+      "LILRA4",
+      "GPR183",
+      "DERL3",
+      "PTCRA"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Platelets",
+    "species": "human",
+    "positive_markers": [
+      "HLA-A",
+      "PPDPF",
+      "OST4",
+      "GPX1",
+      "ARHGDIB",
+      "SRGN",
+      "NCOA4",
+      "GNG11"
+    ],
+    "supporting_markers": [
+      "CCL5",
+      "CAVIN2",
+      "SPARC",
+      "PPBP",
+      "PF4",
+      "CD9"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Pluripotent stem cells",
+    "species": "human",
+    "positive_markers": [
+      "NAP1L1",
+      "TERF1",
+      "SPN",
+      "ZFX",
+      "ESRP1",
+      "SOX2",
+      "HK2",
+      "TEX19"
+    ],
+    "supporting_markers": [
+      "ALPL",
+      "NCOA5",
+      "ZNF296",
+      "PRMT8",
+      "PRDM14",
+      "TERT"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Podocytes",
+    "species": "human",
+    "positive_markers": [
+      "GOLIM4",
+      "TOB1",
+      "SRGAP1",
+      "MAFB",
+      "PODXL",
+      "CTGF",
+      "WT1",
+      "BCAM"
+    ],
+    "supporting_markers": [
+      "CLIC5",
+      "NPHS2",
+      "PTPRO",
+      "NPHS1",
+      "DACH1",
+      "MAGI2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Principal cells",
+    "species": "human",
+    "positive_markers": [
+      "LGALS3",
+      "HES1",
+      "AQP3",
+      "TSPAN1",
+      "STC1",
+      "GATA3",
+      "TMEM45B",
+      "HSD11B2"
+    ],
+    "supporting_markers": [
+      "NR3C2",
+      "KLK1",
+      "SCNN1B",
+      "PTGES",
+      "AQP2",
+      "FZD1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Proximal tubule cells",
+    "species": "human",
+    "positive_markers": [
+      "APOE",
+      "ASS1",
+      "CRYL1",
+      "PCK1",
+      "AK4",
+      "FBP1",
+      "FAH",
+      "DPP4"
+    ],
+    "supporting_markers": [
+      "SERPINF2",
+      "FOLR1",
+      "SLC4A4",
+      "HGD",
+      "ENPEP",
+      "PDZK1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Pulmonary alveolar type I cells",
+    "species": "human",
+    "positive_markers": [
+      "CTGF",
+      "KRT7",
+      "HOPX",
+      "GPRC5A",
+      "IGFBP6",
+      "EMP2",
+      "AQP3",
+      "SMARCA1"
+    ],
+    "supporting_markers": [
+      "AQP5",
+      "RTKN2",
+      "VEGFA",
+      "SEMA3B",
+      "FSTL3",
+      "MEX3B"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Pulmonary alveolar type II cells",
+    "species": "human",
+    "positive_markers": [
+      "MUC1",
+      "SFTPB",
+      "SFTPC",
+      "SFTPA1",
+      "SLC34A2",
+      "NAPSA",
+      "CXCL2",
+      "SFTA2"
+    ],
+    "supporting_markers": [
+      "SFTPD",
+      "PGC",
+      "CLDN18",
+      "PIGR",
+      "LPCAT1",
+      "ABCA3"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Pulmonary vascular smooth muscle cells",
+    "species": "human",
+    "positive_markers": [
+      "PDGFRB",
+      "ANGPT1"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Purkinje fiber cells",
+    "species": "human",
+    "positive_markers": [
+      "NEFM",
+      "GJC1",
+      "GJA5",
+      "KCNK3",
+      "B3GAT1"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Purkinje neurons",
+    "species": "human",
+    "positive_markers": [
+      "GRID2",
+      "GAD2",
+      "SLC1A6",
+      "PCP4",
+      "CALB1",
+      "GAD1",
+      "CD3G",
+      "MRPS35"
+    ],
+    "supporting_markers": [
+      "NRIP3",
+      "PENK",
+      "PDE1A",
+      "CNTNAP2",
+      "GNG4",
+      "CBLN1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Pyramidal cells",
+    "species": "human",
+    "positive_markers": [
+      "YWHAZ",
+      "RTN4",
+      "NR4A2",
+      "CCM2",
+      "KCNQ2",
+      "ADRB2",
+      "KCNN4",
+      "PDE2A"
+    ],
+    "supporting_markers": [
+      "KCND3",
+      "OXTR",
+      "SATB2",
+      "SPINK8",
+      "GRIN2D",
+      "GRM1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Radial glia cells",
+    "species": "human",
+    "positive_markers": [
+      "SPRY1",
+      "NOTCH3",
+      "RIIAD1",
+      "GLI3",
+      "EMX2",
+      "PDGFD",
+      "GFAP",
+      "PAX6"
+    ],
+    "supporting_markers": [
+      "AXIN2",
+      "VCAM1",
+      "CDH4",
+      "SLC1A3",
+      "HES5",
+      "OLIG2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Red pulp macrophages",
+    "species": "human",
+    "positive_markers": [
+      "SLC40A1",
+      "HMOX1",
+      "NR1H3",
+      "CD86",
+      "SLC11A1",
+      "SIGLEC1",
+      "CCR3",
+      "SPIC"
+    ],
+    "supporting_markers": [
+      "TREML4",
+      "VCAM1",
+      "MERTK",
+      "ADGRE1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Reticulocytes",
+    "species": "human",
+    "positive_markers": [
+      "RUVBL1",
+      "TFRC",
+      "CD36",
+      "FOLR1",
+      "SLC11A2",
+      "ITGA4",
+      "UCP3",
+      "UBE2O"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Retinal ganglion cells",
+    "species": "human",
+    "positive_markers": [
+      "SLC17A6",
+      "RBPMS",
+      "ISL1",
+      "POU4F2",
+      "POU4F1",
+      "NARF",
+      "SNCG",
+      "NEFM"
+    ],
+    "supporting_markers": [
+      "NKAIN3",
+      "DNER",
+      "CCDC184",
+      "SRRM3",
+      "CPNE4",
+      "SMIM18"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Retinal progenitor cells",
+    "species": "human",
+    "positive_markers": [
+      "HES1",
+      "MSI1",
+      "SOX9",
+      "NOTCH1",
+      "PAX6",
+      "LGR5",
+      "RAX",
+      "NEFH"
+    ],
+    "supporting_markers": [
+      "SAG",
+      "SIX3",
+      "SIX6",
+      "RHO",
+      "CALB2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Salivary mucous cells",
+    "species": "human",
+    "positive_markers": [
+      "KRT17",
+      "THBS1",
+      "KRT14",
+      "CNN1",
+      "MYH11",
+      "PIP",
+      "MUCL1"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Satellite cells",
+    "species": "human",
+    "positive_markers": [
+      "VAMP2",
+      "CXCR4",
+      "TNFRSF12A",
+      "CAV1",
+      "CXCL1",
+      "SPRY1",
+      "HMOX1",
+      "SIX1"
+    ],
+    "supporting_markers": [
+      "CDCP1",
+      "RUNX1",
+      "GAL",
+      "MET",
+      "NOTCH3",
+      "IRF2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Satellite glial cells",
+    "species": "human",
+    "positive_markers": [
+      "GLUL",
+      "CXCL8",
+      "PTGDS",
+      "CDH1",
+      "MAPK1",
+      "EPOR",
+      "IL6",
+      "SOX2"
+    ],
+    "supporting_markers": [
+      "P2RX7",
+      "EDNRB",
+      "TGFA",
+      "GFAP",
+      "BDKRB2",
+      "TLR4"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Schwann cells",
+    "species": "human",
+    "positive_markers": [
+      "STMN1",
+      "SEPT9",
+      "CRYAB",
+      "PMP22",
+      "AGR2",
+      "APOD",
+      "NDRG1",
+      "CNP"
+    ],
+    "supporting_markers": [
+      "CD82",
+      "CTHRC1",
+      "S100B",
+      "SEMA3B",
+      "MATN2",
+      "ITGB4"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Sebocytes",
+    "species": "human",
+    "positive_markers": [
+      "CEBPB",
+      "KRT7",
+      "KLF5",
+      "ADIPOR1",
+      "LTA4H",
+      "MUC1",
+      "CDH1",
+      "ANGPTL4"
+    ],
+    "supporting_markers": [
+      "F2RL1",
+      "PTGER2",
+      "SRD5A2",
+      "CYP24A1",
+      "CRH",
+      "HRH1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Serotonergic neurons",
+    "species": "human",
+    "positive_markers": [
+      "FEV",
+      "DDC",
+      "ESM1",
+      "SLC6A4",
+      "SLC18A2",
+      "TPH2",
+      "SLC22A3",
+      "TPH1"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Sertoli cells",
+    "species": "human",
+    "positive_markers": [
+      "CLU",
+      "CD55",
+      "SERPING1",
+      "WFDC2",
+      "CD46",
+      "PHF7",
+      "GAMT",
+      "SLC16A3"
+    ],
+    "supporting_markers": [
+      "ANKRD7",
+      "MAFB",
+      "NR1H2",
+      "NF2",
+      "EPS8",
+      "SERPINB9"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Smooth muscle cells",
+    "species": "human",
+    "positive_markers": [
+      "MYL9",
+      "MYLK",
+      "MYH11",
+      "SOD3",
+      "ACTA2",
+      "BGN",
+      "LMOD1",
+      "PLN"
+    ],
+    "supporting_markers": [
+      "CNN1",
+      "NOTCH3",
+      "SNCG",
+      "ACTG2",
+      "MSRB3",
+      "SMTN"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Spermatocytes",
+    "species": "human",
+    "positive_markers": [
+      "PRM1",
+      "PRM2",
+      "TNP1",
+      "OSR2",
+      "IGF2",
+      "SMCP",
+      "CD46",
+      "SPATA33"
+    ],
+    "supporting_markers": [
+      "GKAP1",
+      "CAPN1",
+      "PGK2",
+      "TEX101",
+      "SYCP2",
+      "SYCP1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Spermatozoa",
+    "species": "human",
+    "positive_markers": [
+      "HSPA2",
+      "LDHC",
+      "ABHD2",
+      "ODF1",
+      "HVCN1",
+      "ABCA1",
+      "PRKAA2",
+      "GPR55"
+    ],
+    "supporting_markers": [
+      "SLC31A1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Stromal cells",
+    "species": "human",
+    "positive_markers": [
+      "COL4A1",
+      "COL15A1",
+      "BMP4",
+      "WNT2",
+      "BMP5",
+      "GDF10",
+      "LUM",
+      "MMP2"
+    ],
+    "supporting_markers": [
+      "CDH11",
+      "PDGFRA",
+      "PECAM1",
+      "PDGFRB",
+      "MME",
+      "LAMC2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "T cells",
+    "species": "human",
+    "positive_markers": [
+      "JUNB",
+      "S100A4",
+      "CD52",
+      "IL32",
+      "TRBC2",
+      "TRAC",
+      "CD3D",
+      "LTB"
+    ],
+    "supporting_markers": [
+      "CXCR4",
+      "CD3E",
+      "CD2",
+      "CD7",
+      "CD3G",
+      "LCK"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "T cells naive",
+    "species": "human",
+    "positive_markers": [
+      "CD3D",
+      "SELL",
+      "CCR7",
+      "CD4"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "T cytotoxic cells",
+    "species": "human",
+    "positive_markers": [
+      "TRAC",
+      "GZMB",
+      "CD2",
+      "CD69",
+      "CD5",
+      "CD27",
+      "CD8A",
+      "CD28"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "T follicular helper cells",
+    "species": "human",
+    "positive_markers": [
+      "P2RX7",
+      "ICOS",
+      "CD200",
+      "CD3D",
+      "CD4",
+      "CD40LG",
+      "IL6R",
+      "PDCD1"
+    ],
+    "supporting_markers": [
+      "CD84",
+      "BCL6",
+      "SLAMF1",
+      "TNFSF4",
+      "CXCR5"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "T helper cells",
+    "species": "human",
+    "positive_markers": [
+      "CXCR4",
+      "CD3G",
+      "NR3C1",
+      "NFKB1",
+      "IL13",
+      "CD4",
+      "TNFRSF4",
+      "GATA3"
+    ],
+    "supporting_markers": [
+      "IFNG",
+      "HPGDS",
+      "AHR",
+      "PPARG",
+      "CD40LG",
+      "IL5"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "T memory cells",
+    "species": "human",
+    "positive_markers": [
+      "PTPRC",
+      "CCR7",
+      "ENPP1",
+      "LTB",
+      "TRBC2",
+      "CD3D",
+      "TRAC",
+      "LCK"
+    ],
+    "supporting_markers": [
+      "CD3E",
+      "CD3G",
+      "CD7",
+      "CD2",
+      "IL7R",
+      "CD69"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "T regulatory cells",
+    "species": "human",
+    "positive_markers": [
+      "ITGAE",
+      "ITGB8",
+      "MAF",
+      "IL2RA",
+      "IL1R1",
+      "CD4",
+      "LRRC32",
+      "CTLA4"
+    ],
+    "supporting_markers": [
+      "FOLR1",
+      "ENTPD1",
+      "FOXP3",
+      "IL10",
+      "IKZF2",
+      "SELL"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Tanycytes",
+    "species": "human",
+    "positive_markers": [
+      "PRDX6",
+      "MEST",
+      "RGCC",
+      "CTGF",
+      "VCAN",
+      "IGFBP5",
+      "ADM",
+      "FRZB"
+    ],
+    "supporting_markers": [
+      "PENK",
+      "PTN",
+      "COL25A1",
+      "DIO2",
+      "SCN7A",
+      "DRD2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Taste receptor cells",
+    "species": "human",
+    "positive_markers": [
+      "NR3C1",
+      "CA4",
+      "KCNH2",
+      "PROX1",
+      "MCOLN3",
+      "TAS1R1",
+      "TAS1R2",
+      "TAS1R3"
+    ],
+    "supporting_markers": [
+      "GNAT3",
+      "TAS2R20",
+      "PKD2L1",
+      "TRPM8",
+      "TAS2R4",
+      "KCNQ1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Thymocytes",
+    "species": "human",
+    "positive_markers": [
+      "EZR",
+      "CXCR4",
+      "CD69",
+      "CD2",
+      "CD27",
+      "IL2RA",
+      "CD4",
+      "CD8A"
+    ],
+    "supporting_markers": [
+      "CD38",
+      "CD5",
+      "NOTCH1",
+      "BCL6",
+      "TAGAP",
+      "UCP2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Transient cells",
+    "species": "human",
+    "positive_markers": [
+      "PARM1",
+      "SYT7",
+      "CTNNB1",
+      "TMEM50B",
+      "ST14",
+      "SEC23B",
+      "ITGAV",
+      "SMPD1"
+    ],
+    "supporting_markers": [
+      "CDC42BPB",
+      "HEPACAM2",
+      "COL18A1",
+      "GCLC",
+      "PIP4K2C",
+      "SLC43A2"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Trichocytes",
+    "species": "human",
+    "positive_markers": [
+      "DSG2",
+      "KRT81",
+      "KRT86",
+      "DSG4",
+      "KRT37",
+      "HOXC13"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Trigeminal neurons",
+    "species": "human",
+    "positive_markers": [
+      "VAMP1",
+      "SCN10A",
+      "PIEZO2",
+      "DHCR24",
+      "CPNE3",
+      "SNCG",
+      "PRPH",
+      "CLGN"
+    ],
+    "supporting_markers": [
+      "PPP1R1C",
+      "FKBP1B",
+      "PARM1",
+      "NEFM",
+      "CREBRF",
+      "CCDC92"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Trophoblast cells",
+    "species": "human",
+    "positive_markers": [
+      "PARP1",
+      "PERP",
+      "KRT7",
+      "HLA-G",
+      "ERVFRD-1",
+      "PHLDA2",
+      "HOPX",
+      "S100P"
+    ],
+    "supporting_markers": [
+      "IGF2",
+      "SERPINE1",
+      "ADAM19",
+      "CD4",
+      "HAND1",
+      "SIRT1"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Trophoblast progenitor cells",
+    "species": "human",
+    "positive_markers": [
+      "ISG20",
+      "TFAP2C",
+      "FOXO4"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Tuft cells",
+    "species": "human",
+    "positive_markers": [
+      "KLF6",
+      "PTPRC",
+      "RAC2",
+      "RGS2",
+      "KLF3",
+      "NREP",
+      "FABP1",
+      "IL13RA1"
+    ],
+    "supporting_markers": [
+      "IRF7",
+      "GFI1B",
+      "CDHR2",
+      "ESPN",
+      "SOX9",
+      "TSLP"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Undefined placental cells",
+    "species": "human",
+    "positive_markers": [
+      "PHLDA2",
+      "KRT23",
+      "DUSP9",
+      "MBNL3",
+      "TFRC",
+      "DKKL1",
+      "LDOC1",
+      "H19"
+    ],
+    "supporting_markers": [
+      "SCT",
+      "BATF3",
+      "LAS1L",
+      "DIO3",
+      "PRSS8"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Urothelial cells",
+    "species": "human",
+    "positive_markers": [
+      "SLC14A1",
+      "PIEZO1",
+      "IVL",
+      "NAT1",
+      "UMODL1",
+      "UPK3A",
+      "UPK1A",
+      "UPK2"
+    ],
+    "supporting_markers": [
+      "UPK3B",
+      "TRPV1",
+      "UPK1B"
+    ],
+    "negative_markers": []
+  },
+  {
+    "cell_type": "Vascular smooth muscle cells",
+    "species": "human",
+    "positive_markers": [
+      "PDGFRB",
+      "WT1",
+      "MYH11",
+      "ACTA2",
+      "SEMA3D",
+      "TBX18"
+    ],
+    "supporting_markers": [],
+    "negative_markers": []
+  }
+]
