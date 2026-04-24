@@ -60,7 +60,25 @@ cd SingleCEllSightAnnotator
 ### 2. Install dependencies
 
 ```bash
+# Create environment
+python3.10 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+# Install the package
 pip install -r requirements.txt
+pip install gradio
+pip install pytest
+pip install -e .
+
+# Create .env
+cp .env.example .env
+# At minimum, if you want LLM adjudication:
+# OPENAI_API_KEY=your_key_here
+# OPENAI_MODEL=gpt-4.1-mini
+# CURATED_MARKER_DB=data/knowledge/curated_markers_v1.json
+# OUTPUT_DIR=outputs
+# 
+
 ```
 
 ---
